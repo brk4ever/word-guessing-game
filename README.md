@@ -6,3 +6,5 @@ User has 6 attempts.
 
 In the game random module is used.
 
+Have fun.
+
